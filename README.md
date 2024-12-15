@@ -1,8 +1,8 @@
-# kotgll
+# kotgll_parallel
 
 
 ## About
-**kotgll** parallel realiztion of open-source project for implementing the GLL algorithm and its modifications (for graph/string input variations, but only for rsm grammars) in Kotlin and comparing with base single-thread realization
+**kotgll parallel realiztion** of open-source project for implementing the GLL algorithm and its modifications (for graph/string input variations, but only for rsm grammars) in Kotlin and comparing with base single-thread realization
 
 ## Usage
 
