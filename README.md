@@ -110,8 +110,8 @@ The proposed modification has been evaluated on several real graphs for the scen
 
 | Graph                 | RSM (single)	 | RSM (multi) |
 |-----------------------|:-------------:|:-----------:|
-| 	  dyck.csv           |   **0.005**   |    0.016    |
-| 	  OneCycleGraph.csv	 |   **0.004**   |    0.018    |
-| 	 OneEdgeGraph.csv    |   **0.004**   |    0.014    |
-| 	TwoEdgesGraph.csv  	 |   **0.004**   |    0.015    |
+| ordered_graph_100k.csv|      866      |     392     |
+| grammar_graph_200k.csv|      441      |     359     |
+
+Result for the second file seems to be inaccurate, so additional checks are required.
 
